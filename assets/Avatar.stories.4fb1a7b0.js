@@ -1,0 +1,2 @@
+import{A as t}from"./index.ce0850b0.js";import"./index.3b4b6d3f.js";import"./index.fe20ddde.js";import"./iframe.04eef650.js";import"./index.546e88bd.js";import"./jsx-runtime.4035ff82.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/devDaviSousa.png",alt:"Davi Sousa"},argTypes:{src:{control:{type:"text"}}}},m={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{m as Primary,e as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.4fb1a7b0.js.map
