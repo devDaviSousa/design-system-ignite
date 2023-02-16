@@ -1271,7 +1271,7 @@
     "@ignite-ui/react" "*"
     "@ignite-ui/tokens" "*"
     "@ignite-ui/ts-config" "*"
-    "@storybook/addon-a11y" "^6.5.12"
+    "@storybook/addon-a11y" "^6.5.16"
     "phosphor-react" "^1.4.1"
     "polished" "^4.2.2"
     "react" "^18.2.0"
@@ -2527,7 +2527,7 @@
     "ts-dedent" "^2.0.0"
     "util-deprecate" "^1.0.2"
 
-"@storybook/storybook-deployer@^2.8.12":
+"@storybook/storybook-deployer@^2.8.16":
   "integrity" "sha512-DRQrjyLKaRLXMYo7SNUznyGabtOLJ0b9yfBKNVMu6PsUHJifGPabXuNXmRPZ6qvyhHUSKLQgeLaX8L3Og6uFUg=="
   "resolved" "https://registry.npmjs.org/@storybook/storybook-deployer/-/storybook-deployer-2.8.16.tgz"
   "version" "2.8.16"
